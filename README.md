@@ -13,7 +13,7 @@ if you use the AIGCOIQA2024 data please cite:
 }
 ```
 <div align="center">
-  <img src="[Overview of AIGCOIQA2024 Database](https://github.com/ylylyl-sjtu/figure/blob/main/g.png)">
+  <img src="https://github.com/ylylyl-sjtu/figure/blob/main/g.png">
 </div>
 
 ## Data
