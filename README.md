@@ -16,7 +16,7 @@ if you use the AIGCOIQA2024 data please cite:
   <img src="https://github.com/ylylyl-sjtu/figure/blob/main/g.png">
 </div>
 
-##Data
+## Data
 You can access our AIGCOIQA2024 database through the following link:
 [TeraBox](https://terabox.com/s/17YIkFc-PFeviUbtGP1ReYQ).
 
